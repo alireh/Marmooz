@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, ’9.0’
+use_frameworks!
+target ‘Marmooz’ do
+   pod 'GRDB.swift', '~> 2.10'
+end

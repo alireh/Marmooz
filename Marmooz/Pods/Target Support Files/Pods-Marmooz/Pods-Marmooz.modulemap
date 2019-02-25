@@ -1,0 +1,6 @@
+framework module Pods_Marmooz {
+  umbrella header "Pods-Marmooz-umbrella.h"
+
+  export *
+  module * { export * }
+}
